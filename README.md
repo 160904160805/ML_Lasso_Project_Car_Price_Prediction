@@ -15,8 +15,8 @@ A Machine Learning project to predict car prices using **Lasso Regression**. Thi
 
 ## 🔗 Live Demo
 
-You can view the **live notebook demo** here:  
-👉 [View Notebook on GitHub]([https://mllaappprojectcarpriceprediction-ffotirc.streamlit.app/])
+You can view the **live demo** here:  
+👉 [live_demo](https://mllaappprojectcarpriceprediction-ffotirc.streamlit.app/)
 
 ---
 
